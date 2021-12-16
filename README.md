@@ -1,2 +1,2 @@
-# Math8
-Mathematics Library
+# Collision8
+Simple Collision Library for Unity
